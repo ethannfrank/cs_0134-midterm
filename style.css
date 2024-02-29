@@ -1,0 +1,32 @@
+h1 {
+    color: red;
+    font-size: large;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    text-align: left;
+    padding: 15px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+img {
+    width: 75px;
+    height: 75px;
+}
+
+table {
+    width: 100%;
+    border-collapse: separate;
+}
+
+td {
+    border: 3px solid black;
+    padding: 15px;
+    margin: 5px;
+    text-align: left;
+}
